@@ -17,6 +17,7 @@
   <img align="center" alt="Mtr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mtr-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Mtr-PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Mtr-Java" height="40" width="40" src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/java@0.0.0/java_256x256.png">
 </div>
   
   ##
